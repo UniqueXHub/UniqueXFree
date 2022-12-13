@@ -8,4 +8,6 @@ if game.PlaceId == 228181322 then  --- Dinosaur Simulator
     loadstring(game:HttpGet(('https://pastebin.com/raw/b3cxkFmp')))()
                   elseif game.PlaceId == 9872472334 then --- Evade
     loadstring(game:HttpGet(('https://pastebin.com/raw/QUwKLmX1')))()
+                      elseif game.PlaceId == 2753915549 then --- Blox Fruits
+    loadstring(game:HttpGet(('https://pastebin.com/raw/H41vgeDa')))()
 end
